@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7acb6c75-fe67-485d-861d-6e5a71ca00e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue-videojs-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/BVTEvent_types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ZLMRTCClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/aes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/play.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/play.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/room.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/video.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/app.9bc3e72964f6918b9b1f219384a62d52.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/app.9bc3e72964f6918b9b1f219384a62d52.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/0.7d3bba1f776f20d7b1e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/0.7d3bba1f776f20d7b1e0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/1.7f02144fb6fd9706335a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/1.7f02144fb6fd9706335a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/app.2c80dd0f4b1b24d5325e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/app.2c80dd0f4b1b24d5325e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/manifest.056887cdbf74654edf7b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/manifest.056887cdbf74654edf7b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/vendor.ef6d58d7248ff315f19b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/vendor.ef6d58d7248ff315f19b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/video-js.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/live.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/playback.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/video-js.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Na4RAHmPoOvXxAXZyAEH0WjojV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/phd/学生课程/vue-videojs-task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\phd\\学生课程\\vue-videojs-task\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\program\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\amysvn\vue-videojs\src\views" />
+      <recent name="D:\js\vue-videojs\src\views" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src\assets" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src\util" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\amysvn\vue-videojs\src\views" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src\views" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src\util" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\config" />
+      <recent name="D:\aGit\a-front\vue-videojs-demo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7acb6c75-fe67-485d-861d-6e5a71ca00e8" name="Default Changelist" comment="" />
+      <created>1679888849005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679888849005</updated>
+      <workItem from="1679888851075" duration="3677000" />
+      <workItem from="1679901467833" duration="5580000" />
+      <workItem from="1679909614858" duration="15654000" />
+      <workItem from="1680229562013" duration="21929000" />
+      <workItem from="1680487004496" duration="716000" />
+      <workItem from="1682138134372" duration="660000" />
+      <workItem from="1682228036631" duration="388000" />
+      <workItem from="1682313557332" duration="125000" />
+      <workItem from="1682313868993" duration="604000" />
+      <workItem from="1682320098392" duration="57000" />
+      <workItem from="1694600948670" duration="5807000" />
+      <workItem from="1695711170682" duration="27000" />
+      <workItem from="1696818352888" duration="6003000" />
+      <workItem from="1696987986159" duration="141000" />
+      <workItem from="1697006441052" duration="3091000" />
+      <workItem from="1698736235996" duration="1126000" />
+      <workItem from="1698742677546" duration="30000" />
+      <workItem from="1698744647295" duration="433000" />
+      <workItem from="1698746174778" duration="2521000" />
+      <workItem from="1699281548877" duration="132000" />
+      <workItem from="1699281928356" duration="216000" />
+      <workItem from="1699322946180" duration="1283000" />
+      <workItem from="1699327003574" duration="700000" />
+      <workItem from="1699331206773" duration="25000" />
+      <workItem from="1699364725639" duration="2024000" />
+      <workItem from="1699496129700" duration="58000" />
+      <workItem from="1713855196210" duration="91000" />
+      <workItem from="1713855378366" duration="33592000" />
+      <workItem from="1714026363221" duration="59000" />
+      <workItem from="1714026550257" duration="6726000" />
+      <workItem from="1714033746492" duration="3116000" />
+      <workItem from="1714266351236" duration="588000" />
+      <workItem from="1715159236437" duration="2241000" />
+      <workItem from="1715162088539" duration="3446000" />
+      <workItem from="1715165633680" duration="162000" />
+      <workItem from="1715166356330" duration="915000" />
+      <workItem from="1715177503102" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ajax/api.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/room.vue</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

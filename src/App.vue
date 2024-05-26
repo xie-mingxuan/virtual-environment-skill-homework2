@@ -1,12 +1,6 @@
 <template>
   <div id="app">
     <div class="container">
-      <div class="star">
-        <span class="badge badge-light">Github</span>
-        <a href="http://github.com/savokiss/vue-videojs-demo" target="_blank">
-          <img src="https://img.shields.io/github/stars/savokiss/vue-videojs-demo.svg?style=social" alt="">
-        </a>
-      </div>
       <div class="routerWrapper">
         <router-view></router-view>
       </div>
@@ -27,7 +21,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 h1,
 h2 {
